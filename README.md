@@ -1,4 +1,7 @@
-# Intent-Entity-Response
+# Intent-Entity-Response Pipeline for ASR Queries
+Deployment for Edge Devices in ONNX Format.
+This repo doesn't contain any model weights or paramaters
+It contains only the inference results for the queries.
 Comparition of models on different bit quatizations for intent-Entity-Response Genereration
 
 Comparision is done on - Gemma-3-1B , Gemma-3-270M, Qwen2.5-0.5B-Instruct, Qwen/Qwen3-0.6B, meta-llama/Llama-3.2-1B-Instruct.
