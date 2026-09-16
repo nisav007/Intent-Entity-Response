@@ -1,5 +1,5 @@
-# Intent-Entity-Response Pipeline for ASR Queries
-Deployment for Edge Devices in ONNX Format.
+# Intent-Entity-Response Pipeline for ASR Queries + RAG for User Manual Queries.
+Deployment of Model in ONNX Format for Edge Devices .
 This repo doesn't contain any model weights or paramaters
 It contains only the inference results for the queries.
 Comparition of models on different bit quatizations for intent-Entity-Response Genereration
